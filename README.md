@@ -285,9 +285,7 @@ print(result)
 ## 🌍 How This Repo Can Grow
 
 * Add diagrams
-* Add exercises
-* Add solutions
-* Add student contributions
+*
 
 ---
 
