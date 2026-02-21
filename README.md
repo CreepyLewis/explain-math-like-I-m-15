@@ -89,8 +89,8 @@ We write it as:
 ### Vector in Real Life
 
 * Wind speed (direction + strength)
-* Displacement in physics
-* Force
+* Displacement in physics.
+* Force.
 
 ---
 
