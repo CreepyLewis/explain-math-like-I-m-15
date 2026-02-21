@@ -282,12 +282,7 @@ print(result)
 
 ---
 
-## 🌍 How This Repo Can Grow
 
-* Add diagrams
-*
-
----
 
 ## 🤝 Contributing
 
