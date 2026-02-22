@@ -126,7 +126,7 @@ We add **component by component** because each component represents movement in 
 
 ### Common Mistakes
 
-❌ Adding magnitudes instead of components
+❌ Adding magnitudes instead of components.
 ❌ Mixing vectors of different dimensions
 
 ---
