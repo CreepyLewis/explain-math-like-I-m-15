@@ -293,7 +293,7 @@ Explain concepts **clearly and slowly**.
 
 ## ⭐ Final Note
 
-If this repository helped you understand something math‑related for the first time —
+If this repository helped you understand something math‑related for the first time .—
 **please star it and share it with someone who is struggling.**
 
 Math is hard. It doesn’t have to be scary.
