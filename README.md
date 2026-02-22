@@ -52,7 +52,7 @@ Math-from-Zero/
 
 ## ✨ How to Use This Repo
 
-1. Start from topic **01** in each folder
+1. Start from topic **01** in each folder.
 2. Read slowly — every step matters
 3. Try examples **before** reading solutions
 4. Use this alongside your class notes
