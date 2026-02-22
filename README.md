@@ -230,7 +230,7 @@ lim (x → 2) x² = 4
 
 ### Why Limits Matter
 
-* Define derivatives
+* Define derivatives.
 * Explain continuity
 * Prevent mathematical lies
 
