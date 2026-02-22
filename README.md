@@ -15,7 +15,7 @@ If you’ve ever felt math moves too fast — this repo is for you.
 ## 🎯 Goal of This Repository
 
 * Explain **math from absolute zero**
-* No skipped steps
+* No skipped steps,
 * Heavy intuition before formulas.
 * Exam‑focused but understanding‑driven.
 
