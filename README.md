@@ -17,7 +17,7 @@ If you’ve ever felt math moves too fast — this repo is for you..
 * Explain **math from absolute zero**
 * No skipped steps,
 * Heavy intuition before formulas.
-* Exam‑focused but understanding‑driven.
+* Exam‑focused but understanding‑driven..
 
 ---
 
