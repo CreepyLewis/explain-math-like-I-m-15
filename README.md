@@ -8,7 +8,7 @@ This repository is for students who constantly ask:
 * *Why are we allowed to do this step?*
 * *Can someone explain this slowly?*
 
-If you’ve ever felt math moves too fast — this repo is for you.
+If you’ve ever felt math moves too fast — this repo is for you..
 
 ---
 
