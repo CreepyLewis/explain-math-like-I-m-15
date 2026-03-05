@@ -12,7 +12,7 @@ If you’ve ever felt math moves too fast — this repo is for you.
 
 ---
 
-## 🎯 Goal of This Repository
+## 🎯 Goal of This Repository>>
 
 * Explain **math from absolute zero**
 * No skipped steps,
