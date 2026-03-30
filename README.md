@@ -134,7 +134,6 @@ We add **component by component** because each component represents movement in 
 ### Exam Tip 💡
 
 Always check dimensions before operations.
-
 ---
 
 ## 02. LINEAR INDEPENDENCE (The Most Confusing Topic — Explained)
